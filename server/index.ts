@@ -172,6 +172,23 @@ io.on('connection', (socket: Socket) => {
     needHost(room, pid); clearRound(room); room.game = null; broadcast(room);
   });
 
+  // Leave this room (any player). Before the game starts a non-host is removed; otherwise they are only detached so they can rejoin with the code.
+  socket.on('leave', (_d: any, ack?: Ack) => {
+    const room = rooms.get(socket.data?.code); const pid: string | undefined = socket.data?.pid; const p = pid ? room?.players.get(pid) : undefined;
+    if (room && pid && p) {
+      if (!room.game && pid !== room.hostPid) room.players.delete(pid); else p.sid = null;
+      socket.leave(room.code); broadcast(room);
+    }
+    socket.data = {}; ack?.({ ok: true });
+  });
+  // Close the room for everyone (host only): tell every player, then delete it.
+  on('close', (_d, { room, pid }) => {
+    needHost(room, pid); clearRound(room);
+    io.to(room.code).emit('closed');
+    io.in(room.code).socketsLeave(room.code);
+    rooms.delete(room.code);
+  });
+
   socket.on('disconnect', () => {
     const room = rooms.get(socket.data?.code); const p = room?.players.get(socket.data?.pid);
     if (room && p && p.sid === socket.id) { p.sid = null; broadcast(room); }

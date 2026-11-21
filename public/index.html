@@ -36,9 +36,9 @@
   .shell { max-width:1200px; margin:0 auto; padding:14px 16px 48px; }
 
   /* ---------- Top bar and chips ---------- */
-  .top { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:14px; }
+  .top { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px 12px; margin-bottom:14px; }
   .brand { font:800 24px/1 var(--display); letter-spacing:-.02em; color:var(--cr2); }
-  .chips { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
+  .chips { display:flex; gap:8px; flex-wrap:wrap; justify-content:flex-end; align-items:center; }
   .chip { display:inline-flex; align-items:center; gap:6px; font:600 13px/1 var(--body); padding:7px 12px; border-radius:999px; background:rgba(246,239,220,.12); color:var(--txt); }
   .chip.gold { background:var(--gold2); color:var(--f9); font-weight:700; }
   .chip.you { background:var(--gold2); color:var(--f9); font-weight:700; padding:4px 9px; font-size:12px; }
@@ -57,6 +57,7 @@
   .btn.green { background:var(--f7); color:var(--cr1); box-shadow:0 4px 0 var(--f9); }
   .btn.ghost { background:none; color:var(--mute); box-shadow:inset 0 0 0 1.5px rgba(169,194,176,.4); min-height:44px; padding:0 16px; font-size:15px; }
   .btn.ghost:active { transform:none; }
+  .btn.sm { min-height:36px; padding:0 14px; font-size:14px; border-radius:12px; }
   .btn.team { color:var(--tx); background:var(--tc); box-shadow:0 4px 0 rgba(0,0,0,.5), inset 0 0 0 2px rgba(255,246,220,.9); }
 
   /* ---------- Pawns ---------- */
@@ -237,6 +238,10 @@
 <div class="toast" id="err" role="status" aria-live="polite"></div>
 <script src="/socket.io/socket.io.js"></script>
 <script>
+if (typeof io === 'undefined') {
+  document.getElementById('app').innerHTML = '<div class="bead"></div><div class="shell"><main class="lobby" style="margin-top:40px"><section class="paper"><h2>Can’t reach the game server</h2><p>Kenya @50 needs its own Node server with WebSocket support. Static hosts such as Vercel can show this page but cannot run the game. Deploy the whole project to a Node host (Render, Railway or Fly.io) and open that link instead.</p></section></main></div>';
+  throw new Error('socket.io client not loaded: no game server at this address');
+}
 const socket = io();
 const ICON = { start:'🏁', black:'', red:'', judge:'⚖️', steal:'−20', give:'+20', sgr:'🚆', rhino:'🦏', mombasa:'⏭️', lions:'🦁', home:'🏠' };
 const store = { get(k){ try { return localStorage.getItem(k); } catch { return null; } }, set(k,v){ try { localStorage.setItem(k,v); } catch {} } };
@@ -313,6 +318,15 @@ function enter(kind) {
   if (kind === 'create') emit('create', { pid, name });
   else emit('join', { pid, name, code: $('code').value.trim().toUpperCase() });
 }
+function leaveRoom() {
+  if (!confirm('Leave this room?')) return;
+  socket.emit('leave', {}, () => { store.set('code', ''); joined = false; S = null; $('err').textContent = ''; render(); });
+}
+function closeRoom() {
+  if (!confirm('Close this room for everyone? The game will end.')) return;
+  emit('close');
+}
+socket.on('closed', () => { store.set('code', ''); joined = false; S = null; render(); $('err').textContent = 'The host closed the room.'; });
 function copyCode() {
   try { navigator.clipboard.writeText(S.code).then(() => { const b = $('copybtn'); if (b) { b.textContent = 'Copied'; setTimeout(() => { const x = $('copybtn'); if (x) x.textContent = 'Copy code'; }, 1500); } }, () => {}); } catch {}
 }
@@ -351,7 +365,7 @@ function welcomeHTML() {
 
 function topbar() {
   const me = S.me;
-  return `<header class="top"><div class="brand">Kenya @50</div><div class="chips"><span class="chip">Room ${esc(S.code)}</span>${me.isHost ? '<span class="chip gold">Host and judge</span>' : ''}</div></header>`;
+  return `<header class="top"><div class="brand">Kenya @50</div><div class="chips"><span class="chip">Room ${esc(S.code)}</span>${me.isHost ? '<span class="chip gold">Host and judge</span><button class="btn ghost sm" onclick="closeRoom()">Close room</button>' : '<button class="btn ghost sm" onclick="leaveRoom()">Leave room</button>'}</div></header>`;
 }
 
 function lobbyHTML() {
