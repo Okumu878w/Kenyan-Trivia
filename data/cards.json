@@ -1,0 +1,1763 @@
+{
+ "_note": "Cleaned deck. Each card = 10 entries in reading order; 'hl' = the highlighted (pink) words where known.",
+ "black": [
+  {
+   "words": [
+    "The Democratic Party",
+    "Kaunda Street",
+    "Lucifer",
+    "Angola",
+    "Consolata School",
+    "Labor Day",
+    "Moringa",
+    "Paa",
+    "Githeri",
+    "Unbwogable"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Heaven's Gates & Hell's Flames",
+    "Ebrahims",
+    "Spider Solitaire",
+    "Levi's",
+    "Shemeji",
+    "Deal or No Deal",
+    "Mister Wok",
+    "Camel Milk",
+    "Ring Road",
+    "Uji"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Prof. George Magoha",
+    "Revelations",
+    "Motorola",
+    "Akiyda Bread",
+    "Lake Victoria",
+    "Biology",
+    "Paul Kagame",
+    "Niamey",
+    "Panganga",
+    "Mashinani"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Daphne Sheldrick",
+    "Dadaab",
+    "Ciroc Vodka",
+    "Homa Bay",
+    "Olorgesailie",
+    "BMW",
+    "KEMRI",
+    "The Tavern",
+    "Sura ya Kazi",
+    "Teke"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Jeevanjee Gardens",
+    "Rwanda",
+    "Dial a Cab",
+    "Pokemon",
+    "Suzanne Owiyo",
+    "Kenton College",
+    "Viva Magazine",
+    "Wajir",
+    "Kiodhe",
+    "Ngoto"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Vasco da Gama Pillar",
+    "Alice Taabu",
+    "Volkswagen",
+    "Otiende",
+    "DRUM Magazine",
+    "KSPCA",
+    "Oxford",
+    "Rally Driver",
+    "Vuta Pumzi",
+    "Twiga"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "The Pride of Africa",
+    "Brenda Wairimu",
+    "Huawei",
+    "Radio Maisha",
+    "Red Bull",
+    "Oliver Litondo",
+    "Father's Day",
+    "Ngong Road",
+    "Samawati",
+    "Mkulima"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Ellen Sirleaf Johnson",
+    "Eritrea",
+    "Cheese",
+    "Harry Thuku",
+    "UNICEF",
+    "Dial-A-Delivery",
+    "Noah",
+    "Kangemi",
+    "Shairi",
+    "Dereva"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Michael Ranneberger",
+    "FreeMark",
+    "Willis Raburu",
+    "Britam Kenya",
+    "Lokichar",
+    "Ruhila Adatia",
+    "Hey",
+    "Mahamri",
+    "Familia",
+    "Dunda"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Nairobi Baptist Church",
+    "Naftali Temu",
+    "Jewelry",
+    "Uhuru Gardens",
+    "Equator Bottlers",
+    "Bujumbura",
+    "Carrefour",
+    "Psalms",
+    "Pepea",
+    "Ruhusa"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Jubilee Insurance",
+    "Lukenya",
+    "Antelope",
+    "Atheist",
+    "Sudan",
+    "General Motors",
+    "Vimal Shah",
+    "Immigration",
+    "Uzembe",
+    "Kaskazini"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Hutchings Biemer",
+    "Lipa na Mpesa",
+    "Ringtone",
+    "Mau Mau",
+    "Logarithm Table",
+    "CNN",
+    "Adam and Eve",
+    "Crowne Plaza",
+    "Ukurutu",
+    "Uongo"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Mix Them Gather Them",
+    "Eko Dyda",
+    "Ecclesiastes",
+    "Nutella",
+    "Kisauni",
+    "Kindergarten",
+    "Neuro Surgeon",
+    "Korede Bello",
+    "Donge",
+    "Mleyi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Ministry of Agriculture",
+    "Kirinyaga",
+    "Buddhist",
+    "Luke Sky Walker",
+    "Padlock",
+    "Monkeys",
+    "Henry Rotich",
+    "Gideon Moi",
+    "Sijambo",
+    "Mashavu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Douglas Wakiihuri",
+    "Chicken Wings",
+    "Freetown",
+    "Nepotism",
+    "Xhosa",
+    "Boma Hotel",
+    "Nahum",
+    "Pumwani",
+    "Zoezi",
+    "Gumburu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Strathmore University",
+    "The Economist",
+    "China Plate",
+    "Mbuzi",
+    "Marikiti",
+    "Sprite",
+    "Sandwich",
+    "King David",
+    "Machachari",
+    "Jambo"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Ethiopian Airlines",
+    "Ulna",
+    "Crocodile",
+    "Classifieds",
+    "Salsa",
+    "Popeye",
+    "Reflection",
+    "Obstetrician",
+    "Sinzia",
+    "Kaburi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Palacina the Residence & Suites",
+    "Monk",
+    "Agriculture",
+    "Military",
+    "Oscar Pistorius",
+    "Nigeria",
+    "Evans Kidero",
+    "Visions Plaza",
+    "Ndizi",
+    "Hayati"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Art & Beer Festival",
+    "CMB Prezzo",
+    "Maanzoni Lodge",
+    "Ramogi FM",
+    "Mathare",
+    "Caribana",
+    "Vegan",
+    "Soweto",
+    "Alhamisi",
+    "Mulika Mwizi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Chinese Checkers",
+    "Quencher",
+    "Pellagra",
+    "AMREF",
+    "Ghostwriter",
+    "Fayaz Quireshi",
+    "Golgotha",
+    "Shell",
+    "Najisi",
+    "Idadi ya Watu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Married With Children",
+    "Disciples",
+    "Florida 2000",
+    "Pac-man",
+    "Mwingi Central",
+    "Artus Mabele",
+    "Moses Kuria",
+    "Laikipia",
+    "Mchezo",
+    "Ghafla Bin Vu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Redd's Vodka Lemon",
+    "Janet Mbugua",
+    "GNLD",
+    "Iyanya",
+    "Satanism",
+    "Maasai",
+    "Qutex",
+    "Lavington",
+    "Kitua",
+    "Kitendawili"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Huddah Cosmetics",
+    "Dumbo",
+    "Carnivore",
+    "News Cafe",
+    "Iron Man",
+    "Tutsi",
+    "Mama Kayaye",
+    "Floodlights",
+    "Kisonono",
+    "Kanzu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Ol Pejeta Conservancy",
+    "Count Duckula",
+    "Aquarius",
+    "Ida Odinga",
+    "Ekuru Aukot",
+    "Brunch",
+    "Manda Island",
+    "Riverside",
+    "Matunda",
+    "Jiko"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Alibaba and the Forty Thieves",
+    "Shuga",
+    "La Palanka",
+    "Rickets",
+    "Sheila Ndinda",
+    "Muthaiga",
+    "Chui",
+    "Jeremiah",
+    "Unga",
+    "Duma"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Umash Funeral Home",
+    "Kathy Kiuna",
+    "Gilbey's Gin",
+    "Nintendo",
+    "Prince Otach",
+    "Nyeri",
+    "Manicure",
+    "Habakkuk",
+    "Bamba",
+    "Gai la Moshi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Presence Magazine",
+    "Congestina",
+    "Eka Hotel",
+    "Otieno Kajwang",
+    "Kimathi Street",
+    "Leviticus",
+    "Customs",
+    "Game of Thrones",
+    "Ndege",
+    "Kijana"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Kenya Wildlife Services",
+    "Ngara",
+    "Cate Sidde",
+    "Good Night",
+    "Adam",
+    "Dinosaurs",
+    "Kipchoge Keino",
+    "Allah",
+    "Switi",
+    "Lipua"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Bonfire Adventures",
+    "Amos & Josh",
+    "Ibis Grill",
+    "Woodvale Grove",
+    "Tim Wetangula",
+    "Sirville",
+    "Embassy Lights",
+    "Aquafresh",
+    "Bwana",
+    "Andika"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Ratemo Michieka",
+    "Kenya Re",
+    "Table Mountain",
+    "Equitel",
+    "Port Louis",
+    "Nice and Lovely",
+    "Be Easy",
+    "Port Elizabeth",
+    "Fegi",
+    "Lenga"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "La Cascina Restaurant",
+    "D.P.",
+    "Swati",
+    "Diani",
+    "Psychiatrist",
+    "Ouagadougou",
+    "Fedha Towers",
+    "Market Street",
+    "Rais",
+    "Vamia"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Loreto Limuru Girls",
+    "Tonic Water",
+    "Southern Bypass",
+    "Sternum",
+    "Kayamba Africa",
+    "Botswana",
+    "Geometrical Set",
+    "Bethwel Kiplagat",
+    "Chanda",
+    "Daktari"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Muindi Bingu Street",
+    "Gourd",
+    "Vipingo Ridge",
+    "The Barn",
+    "Apricot",
+    "Rendille",
+    "Bio Yoghurt",
+    "Maqbul",
+    "Tasa",
+    "Kwaheri"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Nairobi Women's Hospital",
+    "Nestafe",
+    "Kamiti Prison",
+    "Hemingways",
+    "Yaya Centre",
+    "South West",
+    "Kilimani",
+    "Colossians",
+    "Choo",
+    "Xaxa"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "The Ten Commandments",
+    "Embakasi",
+    "Rupee",
+    "Matchsticks",
+    "Roadhouse",
+    "Kenneth Matiba",
+    "Eclairs",
+    "Fresh Fri",
+    "Mashariki",
+    "Chungu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Buy Goods & Services",
+    "Charlie's Bistro",
+    "Henrie Mutuku",
+    "Aerodrome Road",
+    "Blue Band",
+    "Nyamira",
+    "Politician",
+    "Zephaniah",
+    "Enzi",
+    "Matoke"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Fat Dog Mendoza",
+    "Alzheimer's",
+    "Que Pasa",
+    "Easter Bunny",
+    "KPA",
+    "Hagar the Horrible",
+    "Optica",
+    "An Apple a Day",
+    "Upepo",
+    "Fiti"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Twinkle Twinkle Little Star",
+    "Edith Kimani",
+    "Creamy Inn",
+    "Niger",
+    "Tengeneza",
+    "Pontius Pilate",
+    "5th Avenue",
+    "Lake Albert",
+    "Uganda",
+    "Pokea"
+   ],
+   "hl": [
+    "Tengeneza",
+    "Pokea"
+   ]
+  },
+  {
+   "words": [
+    "Mathare United F.C.",
+    "Jungle Book",
+    "Zain",
+    "Naivasha",
+    "Zidi",
+    "Joshua",
+    "Marsabit",
+    "Keringet Water",
+    "Oliver Mtukudzi",
+    "Mapambano"
+   ],
+   "hl": [
+    "Zidi",
+    "Mapambano"
+   ]
+  },
+  {
+   "words": [
+    "Cosmopolitan Kenya",
+    "Flamingo",
+    "AKA",
+    "Chronicles",
+    "Tisini",
+    "Jeffersons",
+    "Cake Festival",
+    "Kabarnet",
+    "James Macharia",
+    "Uremo"
+   ],
+   "hl": [
+    "Tisini",
+    "Uremo"
+   ]
+  },
+  {
+   "words": [
+    "Ministry of Energy & Petroleum",
+    "Serare School",
+    "Amazon",
+    "Oshwal Centre",
+    "Sitini",
+    "Enid Blyton",
+    "December 31st",
+    "Pilsner Ice",
+    "Ball Gum",
+    "Teke Teke"
+   ],
+   "hl": [
+    "Sitini",
+    "Teke Teke"
+   ]
+  },
+  {
+   "words": [
+    "Naivas Supermarket",
+    "Unilever",
+    "Robert Alai",
+    "Railways",
+    "Kitenge",
+    "Namanga",
+    "DVD Player",
+    "Namibia",
+    "School Outfitters",
+    "Kikosi"
+   ],
+   "hl": [
+    "Kitenge",
+    "Kikosi"
+   ]
+  },
+  {
+   "words": [
+    "Enashipai Resort & Spa",
+    "Judas Iscariot",
+    "Aqua Lounge",
+    "Langata",
+    "Mpasho",
+    "Baygon",
+    "Hair Glo",
+    "Sponsor",
+    "Hurlingham",
+    "Bandia"
+   ],
+   "hl": [
+    "Mpasho",
+    "Bandia"
+   ]
+  },
+  {
+   "words": [
+    "Sweet Valley Kids",
+    "Mobile Phone",
+    "Fly SAK",
+    "Water Bucks",
+    "Elimisha",
+    "Poker",
+    "Saturn",
+    "IEBC",
+    "Isis Nyong'o",
+    "Waza"
+   ],
+   "hl": [
+    "Elimisha",
+    "Waza"
+   ]
+  },
+  {
+   "words": [
+    "Windsor Golf & Country Club",
+    "Chiko Lawi",
+    "Watamu",
+    "United Nations",
+    "Nyekundu",
+    "Speedy Gonzales",
+    "Coke Studio",
+    "Access Kenya",
+    "Ginah's",
+    "Paja"
+   ],
+   "hl": [
+    "Nyekundu",
+    "Paja"
+   ]
+  },
+  {
+   "words": [
+    "Rich Dad Poor Dad",
+    "Parker Pen",
+    "Wabera Street",
+    "Deuteronomy",
+    "Nyuki",
+    "Cynthia Morgan",
+    "K.N.U.T.",
+    "Pishori",
+    "Runda",
+    "Changamoto"
+   ],
+   "hl": [
+    "Nyuki",
+    "Changamoto"
+   ]
+  },
+  {
+   "words": [
+    "Tapas Ceviche Bar",
+    "Safaricom",
+    "Achari",
+    "Ephesians",
+    "Githafu",
+    "Kinangop",
+    "Ministry of Mining",
+    "CJ Maraga",
+    "Milele FM",
+    "Duara"
+   ],
+   "hl": [
+    "Githafu",
+    "Duara"
+   ]
+  },
+  {
+   "words": [
+    "Dikembe Mutombo",
+    "Nyanya",
+    "Natives",
+    "Tiwa Savage",
+    "Maalum",
+    "The Arbor",
+    "Zimbabwe",
+    "Busia",
+    "Zachary Saitoti",
+    "Amua"
+   ],
+   "hl": [
+    "Nyanya",
+    "Maalum",
+    "Amua"
+   ]
+  },
+  {
+   "words": [
+    "Police Headquarters",
+    "Desmond Elliot",
+    "Wonder Woman",
+    "John Munyes",
+    "Wawili",
+    "Funyula",
+    "Juliani",
+    "Lower Kabete",
+    "Big Ted",
+    "Zama"
+   ],
+   "hl": [
+    "Wawili",
+    "Zama"
+   ]
+  },
+  {
+   "words": [
+    "Muhoroni Sugar Company",
+    "Northern Kenya",
+    "TB",
+    "Chipukizi",
+    "Dawa",
+    "Fogo Gaucho",
+    "Fundi Frank",
+    "The Mall",
+    "Big Kev",
+    "Kidato"
+   ],
+   "hl": [
+    "Dawa",
+    "Kidato"
+   ]
+  },
+  {
+   "words": [
+    "Nation Media Group",
+    "The Alchemist",
+    "Blu-Ray",
+    "Shrub",
+    "Genge",
+    "Bridget Achieng",
+    "Crown Paints",
+    "Mirinda",
+    "Burger King",
+    "Fitina"
+   ],
+   "hl": [
+    "Genge",
+    "Fitina"
+   ]
+  },
+  {
+   "words": [
+    "Ngugi wa Thiong'o",
+    "Ngong",
+    "River Nile",
+    "Marasmus",
+    "Fyeka",
+    "Juba",
+    "Blaze",
+    "Coca-Cola",
+    "Sambuca",
+    "Kapuka"
+   ],
+   "hl": [
+    "Fyeka",
+    "Kapuka"
+   ]
+  },
+  {
+   "words": [
+    "Kizunguzungu",
+    "Radiologist",
+    "FGM",
+    "Samuel Wanjiru",
+    "Kachumbari",
+    "Mohamed Amin",
+    "Barclaycard",
+    "Paybill",
+    "Atlas Mountains",
+    "Chyulu Hills"
+   ],
+   "hl": [
+    "Kizunguzungu",
+    "Kachumbari"
+   ]
+  },
+  {
+   "words": [
+    "Colby's Clubhouse",
+    "Rusinga School",
+    "Gaborone",
+    "Treetops Hotel",
+    "Chupi",
+    "College",
+    "James Mwangi",
+    "KK Security",
+    "Fred Indimuli",
+    "Rada"
+   ],
+   "hl": [
+    "Chupi",
+    "Rada"
+   ]
+  },
+  {
+   "words": [
+    "Milimani Law Courts",
+    "Prison Break",
+    "Safari Park",
+    "Happy Birthday",
+    "Kesho",
+    "Diva",
+    "Miss Tourism",
+    "Egypt",
+    "Anwar Sadat",
+    "Juala"
+   ],
+   "hl": [
+    "Kesho",
+    "Juala"
+   ]
+  },
+  {
+   "words": [
+    "Juliana Kanyomozi",
+    "Meru",
+    "Malenge",
+    "Uhuru Highway",
+    "Mazingaombwe",
+    "The Bench",
+    "Girl Guide",
+    "Limuru Girls",
+    "Khartoum",
+    "Pepopunda"
+   ],
+   "hl": [
+    "Malenge",
+    "Mazingaombwe",
+    "Pepopunda"
+   ]
+  },
+  {
+   "words": [
+    "Elite High School",
+    "Lady Bee",
+    "Cyber Cafe",
+    "Scorpio",
+    "Mahindi",
+    "Tunis",
+    "Nestle",
+    "Sportsman",
+    "Duncan Ndegwa",
+    "Chokora"
+   ],
+   "hl": [
+    "Mahindi",
+    "Chokora"
+   ]
+  },
+  {
+   "words": [
+    "Ramogi Achieng Oneko",
+    "Kinyarwanda",
+    "Nairobi Terminus",
+    "Nipashe Citizen",
+    "Shagz",
+    "CRE",
+    "Nazizi",
+    "Kilifi",
+    "Albinism",
+    "Hanjam"
+   ],
+   "hl": [
+    "Shagz",
+    "Hanjam"
+   ]
+  },
+  {
+   "words": [
+    "Papa Shirandula",
+    "South Africa",
+    "Facebook",
+    "Thorn Melon",
+    "Angalia",
+    "Femi Kuti",
+    "Paradise",
+    "Harpic",
+    "Pedicure",
+    "Kihara"
+   ],
+   "hl": [
+    "Angalia",
+    "Kihara"
+   ]
+  },
+  {
+   "words": [
+    "Good Morning Kenya",
+    "Isiolo",
+    "B-Club",
+    "Charles Njonjo",
+    "Stima",
+    "The Lord's Prayer",
+    "Lome",
+    "Fish Fingers",
+    "Cruella de Vil",
+    "Donda"
+   ],
+   "hl": [
+    "Stima",
+    "Donda"
+   ]
+  },
+  {
+   "words": [
+    "Talisman Restaurant",
+    "Cod Liver Oil",
+    "Anne Kiguta",
+    "Thabo Mbeki",
+    "Juju",
+    "Ngandu Girls",
+    "Drumsticks",
+    "Mwafaka Awards",
+    "Nice Biscuits",
+    "Nyang'au"
+   ],
+   "hl": [
+    "Juju",
+    "Nyang'au"
+   ]
+  },
+  {
+   "words": [
+    "Musalia Mudavadi",
+    "Konza City",
+    "Zebra Crossing",
+    "Nanyuki",
+    "Kipepeo",
+    "Capital Centre",
+    "Kalasha Awards",
+    "Omena",
+    "Braille",
+    "Dinda"
+   ],
+   "hl": [
+    "Kipepeo",
+    "Dinda"
+   ]
+  },
+  {
+   "words": [
+    "Ministry of Education",
+    "Nyayo House",
+    "Poxi Presha",
+    "Klear Kut",
+    "Chora",
+    "Governor",
+    "Nimrod Taabu",
+    "20th Century",
+    "Naira",
+    "Joseph Olita"
+   ],
+   "hl": [
+    "Chora"
+   ]
+  }
+ ],
+ "red": [
+  {
+   "words": [
+    "Utamu Restaurant",
+    "Lewa Marathon",
+    "Cece Sagini",
+    "Text Book Centre",
+    "Eugy",
+    "Cancer",
+    "Hydrogen",
+    "Joyce Chepchumba",
+    "Gazeti",
+    "Linda"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Desperate Housewives",
+    "Dettol Heart Run",
+    "Kianda School",
+    "Abel",
+    "Never Never Land",
+    "Busted",
+    "Mr. Price",
+    "Bookstop",
+    "Chumvi",
+    "Mangware"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Nairobi Stock Exchange",
+    "Mango",
+    "Red Cross",
+    "Reggae",
+    "Gospel Hour",
+    "Philemon",
+    "Togo",
+    "Close Up",
+    "Sikukuu",
+    "Ndoa"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Fast and the Furious",
+    "The 5th Estate",
+    "Gesami Ondicho",
+    "Henry Rono",
+    "Mercury",
+    "Akamba Bus",
+    "Bantu",
+    "Cow & Chicken",
+    "Kisogo",
+    "Ndizi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Great Rift Valley Lodge",
+    "Julie Gichuru",
+    "Fanta",
+    "Prime Cuts",
+    "Gilmore Girls",
+    "Archbishop",
+    "KBC",
+    "Saida Karoli",
+    "Joto",
+    "Moti"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Paradise Beach Resort",
+    "Malaria",
+    "Joel",
+    "BlackBerry",
+    "Titanic",
+    "Sarafina",
+    "Gaetano Kagwi",
+    "Eve",
+    "Mdosi",
+    "Shamrashamra"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Standard Chartered Bank",
+    "Mt. Longonot",
+    "Nyama Choma",
+    "William Ruto",
+    "True Love",
+    "Anyang' Nyong'o",
+    "Dedan Kimathi",
+    "Miss Piggy",
+    "Elimu",
+    "Toboa"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Green Garden Schools",
+    "Impala Park",
+    "8-4-4",
+    "Vinnie Banton",
+    "Ashleys",
+    "Proctor & Gamble",
+    "Octopussy",
+    "The Springboks",
+    "Iba",
+    "Nduthi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Hits Not Homework",
+    "Harlequins",
+    "Chickenpox",
+    "Achieng Abura",
+    "Dipak Patel",
+    "Airbnb",
+    "Arboretum",
+    "Wimpy",
+    "Leso",
+    "Nyati"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Euphoria Fish Spa",
+    "Mount Everest",
+    "Pizza Garden",
+    "Beth Mugo",
+    "Smart Village",
+    "Joseph Keter",
+    "Captain Hook",
+    "Apartheid",
+    "Birika",
+    "Popote"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Nakumatt Westgate",
+    "Rabbit",
+    "Tuskys",
+    "Candid Camera",
+    "Chao Tolle",
+    "Old Mutual",
+    "Uranus",
+    "Driving School",
+    "Changamka",
+    "Zii"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Sunshine Secondary",
+    "Kanyari",
+    "Kenzo",
+    "Willy Bett",
+    "10 Over 10",
+    "ER",
+    "HTC",
+    "M.O.G.",
+    "Bunduz",
+    "Mbuyu"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Harambee Avenue",
+    "Nairobi Arboretum",
+    "Pilau",
+    "Galleria",
+    "Ufisadi",
+    "Mbusi",
+    "WWF",
+    "Poodle",
+    "Hassan Juma",
+    "Ngamia"
+   ],
+   "hl": [
+    "Ufisadi",
+    "Ngamia"
+   ]
+  },
+  {
+   "words": [
+    "Ministry of Finance",
+    "Rolf's Place",
+    "Pinky Ghelani",
+    "Nazlin Omar",
+    "Kanjo",
+    "Sense 8",
+    "M-Net",
+    "Eat Out",
+    "Kalenjin",
+    "Vumbi"
+   ],
+   "hl": [
+    "Kanjo",
+    "Vumbi"
+   ]
+  },
+  {
+   "words": [
+    "Upper Hill Medical Centre",
+    "Paradise Lost",
+    "DT Dobie",
+    "Kleptomaniacs",
+    "TakaTaka",
+    "Paul Muite",
+    "ABC Place",
+    "Groove Awards",
+    "Oppo",
+    "Fala Dush"
+   ],
+   "hl": [
+    "TakaTaka",
+    "Fala Dush"
+   ]
+  },
+  {
+   "words": [
+    "Kenya Rugby Union",
+    "Forever Living",
+    "Tosh Gitonga",
+    "Moses",
+    "Pendo",
+    "Edward Kwach",
+    "Tiger",
+    "Kenylon Beans",
+    "Rabai",
+    "Finya"
+   ],
+   "hl": [
+    "Pendo",
+    "Finya"
+   ]
+  },
+  {
+   "words": [
+    "Hakuna Matata Festival",
+    "14 Falls",
+    "Pineapple",
+    "Richard Leakey",
+    "Ngata",
+    "Ray-ban",
+    "Apollo Ohanga",
+    "Maharagwe",
+    "Safari Sevens",
+    "Maziwa"
+   ],
+   "hl": [
+    "Ngata",
+    "Maziwa"
+   ]
+  },
+  {
+   "words": [
+    "Kenya National Theater",
+    "Noah's Ark",
+    "Food Network",
+    "Limuru",
+    "Proff",
+    "Edi Gathegi",
+    "Cocoa",
+    "Infinix",
+    "Charmed",
+    "Chuo Kikuu"
+   ],
+   "hl": [
+    "Proff",
+    "Chuo Kikuu"
+   ]
+  },
+  {
+   "words": [
+    "Creme de la Creme",
+    "Ivory",
+    "Coast Bus",
+    "Nyama Mama",
+    "Kitu Kidogo",
+    "Spock",
+    "Joseph Kony",
+    "Molo",
+    "Debonair's Pizza",
+    "Bazokizo"
+   ],
+   "hl": [
+    "Kitu Kidogo",
+    "Bazokizo"
+   ]
+  },
+  {
+   "words": [
+    "All Saints Cathedral",
+    "KwaZulu-Natal",
+    "Sumu la Penzi",
+    "Ogopa DJs",
+    "Mchawi",
+    "Pretoria",
+    "Telenovela",
+    "Aries",
+    "NIC Bank",
+    "Karao"
+   ],
+   "hl": [
+    "Mchawi",
+    "Karao"
+   ]
+  },
+  {
+   "words": [
+    "One Step at a Time",
+    "Mama Rocks",
+    "Digestive",
+    "Healthy U",
+    "Sherekea",
+    "Carol Radull",
+    "Hercules",
+    "Ice Cool",
+    "Flavour",
+    "Nyasi"
+   ],
+   "hl": [
+    "Sherekea",
+    "Nyasi"
+   ]
+  },
+  {
+   "words": [
+    "Kenya National Museum",
+    "Dodoma",
+    "Flipper",
+    "Sarabi",
+    "Shillingi",
+    "Miss Mandi",
+    "iTax",
+    "Gemini",
+    "Oreos",
+    "Mama Safi"
+   ],
+   "hl": [
+    "Shillingi",
+    "Mama Safi"
+   ]
+  },
+  {
+   "words": [
+    "Winfred Omwakwe",
+    "Samuel",
+    "Pastoralism",
+    "Nairobi Diaries",
+    "Sabini",
+    "Yayi Boni",
+    "Algeria",
+    "Hope FM",
+    "Word Press",
+    "Mwaga"
+   ],
+   "hl": [
+    "Sabini",
+    "Mwaga"
+   ]
+  },
+  {
+   "words": [
+    "Vaseline Petroleum Jelly",
+    "Lyons Maid",
+    "Classic FM",
+    "India",
+    "Mgeni",
+    "Prof. Ali Mazrui",
+    "Yellow Fever",
+    "Ebay",
+    "Taxify",
+    "Wezi"
+   ],
+   "hl": [
+    "Mgeni",
+    "Wezi"
+   ]
+  },
+  {
+   "words": [
+    "Kruger National Park",
+    "Ghana",
+    "Martha Karua",
+    "Cheese & Onion",
+    "Jela",
+    "Jacob Kaimenyi",
+    "Koinange Street",
+    "Always",
+    "Conakry",
+    "Lamba"
+   ],
+   "hl": [
+    "Jela",
+    "Lamba"
+   ]
+  },
+  {
+   "words": [
+    "Catherine Kasavuli",
+    "Mamba Disco",
+    "Somalia",
+    "Twerk",
+    "Gwara",
+    "7th Heaven",
+    "Patco",
+    "Party of Five",
+    "Kilimbi Night",
+    "Jumamosi"
+   ],
+   "hl": [
+    "Gwara",
+    "Jumamosi"
+   ]
+  },
+  {
+   "words": [
+    "Tamambo Bar & Grill",
+    "Thierry Henry",
+    "LC Waikiki",
+    "Hindu",
+    "Hatari",
+    "Kanda Kid",
+    "TBT",
+    "Garissa",
+    "Back Stroke",
+    "Jasiri"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Queensway House",
+    "Impala",
+    "Cleopha Mailu",
+    "DJ Kaytrixx",
+    "Gonga Ukuta",
+    "Njuguna's",
+    "Kahawa",
+    "Pink",
+    "Kiwi",
+    "Jino"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Anniversary Towers",
+    "Lake Malawi",
+    "Angel Michael",
+    "Whatsapp",
+    "Mono",
+    "Jupiter",
+    "Miguna Miguna",
+    "Bluetooth",
+    "New Years Eve",
+    "Daro"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Valentine Cake House",
+    "Malindi",
+    "Doberman",
+    "Highrise",
+    "Mizizi",
+    "Mvuli Suites",
+    "Vitz",
+    "Jameson",
+    "Mark",
+    "Saratani"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Maseno University",
+    "Africa",
+    "Victor Wanyama",
+    "Yaaku Tribe",
+    "Ulaya",
+    "Lonrho House",
+    "Chevda",
+    "Chris Msando",
+    "Beach Boys",
+    "Ngori"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Haandi Restaurant",
+    "Barack Obama",
+    "Fish and Chips",
+    "Hutu",
+    "Pasaka",
+    "Mvita",
+    "Pawa254",
+    "Donholm",
+    "Bob Marley",
+    "Mkwanja"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Green Belt Movement",
+    "Kids Unlimited",
+    "Prince of Wales",
+    "Kwale",
+    "Askari",
+    "Tim Wanyonyi",
+    "Viazi Karai",
+    "John Grisham",
+    "County Hall",
+    "Chinku"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Hussein Mohammed",
+    "Embassy Cinema",
+    "Digo",
+    "Braeburn",
+    "Baadhi",
+    "Mutahi Kagwe",
+    "Titus",
+    "Wasini Island",
+    "Sanaipei Tande",
+    "Kwanza"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "George Thuo",
+    "Solar Power",
+    "Jaguar",
+    "Wangari Maathai",
+    "Shughuliika",
+    "Hart the Band",
+    "Isaac Ruto",
+    "Solitaire",
+    "Hassan Wario",
+    "Hepi"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Seventh Day Adventist",
+    "Google Play Store",
+    "Plantain",
+    "Head of State",
+    "Sokwe",
+    "Simmers",
+    "Milking Jelly",
+    "Peugeot",
+    "Lex Luther",
+    "Kitinda Mimba"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Rudolph the Red Nosed Reindeer",
+    "Joey Muthengi",
+    "Cold Water",
+    "Frankenstein",
+    "Asali",
+    "Toffee",
+    "Club 1900",
+    "Zebra",
+    "Felix the Cat",
+    "Pinduka"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Tin Tin Restaurant",
+    "Dar es Salaam",
+    "Bungoma",
+    "Galatians",
+    "Jiko Okoa",
+    "Vanessa Mdee",
+    "Tusker Malt",
+    "Isaiah",
+    "Kisima Awards",
+    "Panua"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Baiskeli Adventures",
+    "Cobra",
+    "Charles Rubia",
+    "Cinderella",
+    "Pweza",
+    "Ruiru",
+    "Police & Robbers",
+    "Urban",
+    "Johnny Bravo",
+    "Uhusiano"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Vaseline Hair Tonic",
+    "The Shad",
+    "Uganda Martyrs",
+    "Shilling",
+    "Umri",
+    "Tacos",
+    "TsEte Fly",
+    "Saul",
+    "Rush Hour",
+    "Jumatano"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Mt. Kenya Safari Club",
+    "Giraffes",
+    "Akala",
+    "Mutahi Ngunyi",
+    "Zebaki",
+    "Kuria",
+    "Easy FM",
+    "Mutua Matheka",
+    "Wilson Airport",
+    "Ndula"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Wildebeest Migration",
+    "Tune Hotels",
+    "Nation Centre",
+    "Mike Sonko",
+    "Hawayuuni",
+    "Dorobucci",
+    "Wyre",
+    "Seretse Khama",
+    "Chinese",
+    "Mutura"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Business Education",
+    "Lake Tanganyika",
+    "Tasmanian Devil",
+    "Doubting Thomas",
+    "Wahenga",
+    "Mejja",
+    "Mukimo",
+    "Uganda House",
+    "Ruai",
+    "Mihadarati"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "M. P. Shah Hospital",
+    "Kilgoris",
+    "Raychelle Omamo",
+    "Central",
+    "Faulu",
+    "Ole Kiyapi",
+    "Morocco",
+    "Northern Bypass",
+    "Good News Bible",
+    "Collabo"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Amboseli Game Reserve",
+    "George Muchai",
+    "Tetra Pak",
+    "Nelson Mandela",
+    "Dirisha",
+    "Lions that Bind",
+    "Porky Pig",
+    "Rodger Federer",
+    "Homer Simpson",
+    "Ngiri"
+   ],
+   "hl": []
+  },
+  {
+   "words": [
+    "Urembo Hair Salon",
+    "TED X",
+    "Fadhili Williams",
+    "Johnson Mwakazi",
+    "Kushoto",
+    "DJ Stylez",
+    "Rexona",
+    "Voi",
+    "Muranga",
+    "Dunga"
+   ],
+   "hl": []
+  }
+ ]
+}

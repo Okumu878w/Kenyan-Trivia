@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^5.3.0",
+    "socket.io": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "socket.io-client": "^4.8.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "name": "board-game-online",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "tsx server/index.ts",
+    "dev": "tsx watch server/index.ts",
+    "test": "tsx shared/sim_test.ts"
+  }
+}
